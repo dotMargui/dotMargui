@@ -6,20 +6,20 @@ title: Margarida Pedro
 superuser: true
 
 # Role/position
-role: Lawyer. Master's student in Administrative Law and Public Administration
+role: Lawyer</br>Master's student in Administrative Law and Public Administration
 
 # Organizations/Affiliations
 organizations:
 - name: University of Lisbon, Faculty of Law
-  url: ""
+  url: "http://www.fd.ulisboa.pt/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lawyer interested in privacy rights, public administration, cooking, history, and everything in between. 
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Law
+#- Cooking and fitness
+#- History
 
 #education:
 #  courses:
@@ -37,10 +37,10 @@ bio: Lawyer interested in privacy rights, public administration, cooking, histor
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:margaridapedro@tuta.io".
+  link: 'mailto:margaridapedro@tuta.io'  # For a direct email link, use "mailto:margaridapedro@tuta.io".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dotmargui
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
