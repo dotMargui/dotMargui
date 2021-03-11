@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Margarida Pedro
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lawyer. Master's student in Administrative Law and Public Administration
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Lisbon, Faculty of Law
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Lawyer interested in privacy rights, public administration, cooking, history, and everything in between. 
 
 #interests:
 #- Artificial Intelligence
@@ -23,15 +23,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Bachelor's in Law
+#    institution: University of Lisbon, School of Law
+#    year: 2020
+#  - course: Master's in Administrative Law and Public Administration
+#    institution: University of Lisbon, School of Law
+#    year: current
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,10 +37,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'about/#contact'  # For a direct email link, use "mailto:margaridapedro@tuta.io".
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
